@@ -28,4 +28,4 @@ The goal is a tool that just works — no clutter, no bloat.
 - 📖 **Project page:** [https://aiseesoft-nexus.softyx.xyz](https://aiseesoft-nexus.softyx.xyz)
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.                     
+> This project is shared as-is. All product names and logos belong to their respective owners.                      
